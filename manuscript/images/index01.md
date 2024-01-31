@@ -4,7 +4,7 @@ Angular is changing. Standalone Components make the framework more lightweight a
 
 In this article series, I'm looking into all these topics. In this part, I'm starting with Standalone Components and esbuild.
 
-📂 [Source Code](https://github.com/manfredsteyer/standalone-example-cli) 
+[Source Code](https://github.com/manfredsteyer/standalone-example-cli) 
 (see branches `nf-standalone-solution` and `nf-standalone-router-config`)
 
 ## Module Federation as a Game Changer
@@ -309,7 +309,7 @@ The first part of this article series showed how to use modern Angular with Nati
 
 As [discussed in this blog article](https://www.angulararchitects.io/blog/multi-framework-and-version-micro-frontends-with-module-federation-your-4-steps-guide/), such an approach is nothing you normally want to introduce without a good reason like dealing with legacy systems or combining existing products to a suite.
 
-📂 [Source Code](https://github.com/manfredsteyer/standalone-example-cli) 
+[Source Code](https://github.com/manfredsteyer/standalone-example-cli) 
 (see branch `nf-web-comp-mixed`)
 
 ## Abstracting Micro Frontends with Web Components
@@ -544,7 +544,7 @@ However, in the world of Single Page Applications (SPAs), the individual Micro F
 
 However, it is different with public web solutions such as web shops. Every millisecond and every kilobyte count here. After all, you want to keep the bounce rates of visitors low. For this reason, public web site often use Island Architectures. This part of our series describes how to implement Island Architectures for Angular-based Micro Frontends.
 
-📂 [Source Code](https://github.com/manfredsteyer/standalone-example-cli) 
+[Source Code](https://github.com/manfredsteyer/standalone-example-cli) 
 (see branches `nf-web-comp-island`, `nf-web-comp-prerender`, and `nf-web-comp-ssr`)
 
 ## Islands

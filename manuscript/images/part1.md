@@ -8,7 +8,7 @@ In this two-part series of articles, I show how you can reconcile both requireme
 
 The examples used here work with a traditional Angular CLI-Project but also with Nx. In the latter case, we recommend starting with an Nx Standalone-Application to keep the architecture lightweight and folder-based.
 
-📂 [Source Code](https://github.com/manfredsteyer/modern-arc.git)
+[Source Code](https://github.com/manfredsteyer/modern-arc.git)
 
 ## The Guiding Theory: Strategic Design from DDD
 
